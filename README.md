@@ -5,7 +5,7 @@ This is my attempt at a Visual Basic .NET port of [my Monkey based MD5 implement
 
 This source code, along with its project files is released here as both a public repository for my *occasional* development of this implementation, as well as an example for others to implement the routines themselves. Because of the example aspect of this project's development, I'm attempting to make the code as configurable and testable as possible.
 
-All project files are standard Visual Studio 2013 (For Desktop) project files, and should work out of the box. I have no reason to update the project, so unless I find myself wanting to at a later date, I make no promises. Visual Studio gets far too many updates and releases for me to keep up with them all.
+All project files are standard Visual Studio 2013 (For Desktop) project files, and should work out of the box. I have no reason to update the VS project files, so unless I find myself wanting to at a later date, I make no promises. Visual Studio gets far too many updates and releases for me to keep up with them all.
 
 If you're wondering why the indenting is weird, that's probably Visual Studio up to its old tricks again; replacing tab characters with spaces and the like. Either that, or you're not used to the way I write Visual Basic.
 
