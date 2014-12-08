@@ -22,6 +22,6 @@ This project has been released under the "MIT License", so you can pretty much d
 * [Wikipedia's MD5 pseudocode example.](http://en.wikipedia.org/wiki/MD5#Pseudocode)
 * [My 'hash' module](https://github.com/Regal-Internet-Brothers/hash) for the [Monkey programming language](https://github.com/blitz-research/monkey), and [its "Special Thanks" / "Other References" section(s)](https://github.com/Regal-Internet-Brothers/hash/blob/master/README.md).
 
-*OTHER:*
+**OTHER:**
 
-**At the time I'm writing this, there are two "Hello world.txt" files, don't worry about those, their the same file. They just contain the string "Hello world.".**
+**At the time I'm writing this, there are two "Hello world.txt" files, don't worry about those, they're the same file. They just contain the string "Hello world.".**
